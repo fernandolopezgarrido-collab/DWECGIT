@@ -10,7 +10,7 @@ console.log(array1.length);//10
 console.log("Prueba concat:");
 //Concatena varios arrays, el parametro debe de ser los arrays que queramos concatenar
 console.log(array1.concat(array2,array3));//(19) [3, 4, 5, 6, 7, 8, 9, 0, 'hdghfdgh', 76, 77, 88, 99, 45, 67, 'Hola', 'Adios', 7.7, 'Tercer array']
-
+//fghfghfgh
 console.log("Prueba join:");
 //Une los elementos de un array y los almacena en un string
 console.log(array1.join());//3,4,5,6,7,8,9,0,hdghfdgh,76
